@@ -1,6 +1,4 @@
-# first_app
-
-A new Flutter project.
+# RollDice app as first project from Flutter & Dart course.
 
 ## Getting Started
 
