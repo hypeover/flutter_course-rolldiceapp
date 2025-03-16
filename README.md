@@ -1,4 +1,4 @@
-# RollDice app as first project from Flutter & Dart course.
+# RollDice as a first project from Flutter & Dart course.
 
 ## Getting Started
 
